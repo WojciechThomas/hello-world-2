@@ -1,4 +1,6 @@
 # hello-world-2
 Hello world 2
 
-Some changes to make a commit.
+Removed a bit of data and added subsequent
+lines to this document.
+
